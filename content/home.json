@@ -29,14 +29,15 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
+      "autoplay": 1000,
+      "page": 2,
+      "title": "DESTAQUES",
       "shuffle": true,
+      "headless": true,
+      "type": "collection-shelf",
+      "limit": 21,
       "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": false,
-      "limit": 12,
-      "page": 1
+      "sort": "news"
     },
     {
       "type": "page-title",
