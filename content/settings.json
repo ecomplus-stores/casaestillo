@@ -1,7 +1,7 @@
 {
   "domain": "casaestillo.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#6d3008",
+  "primary_color": "#f5e2bd",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
