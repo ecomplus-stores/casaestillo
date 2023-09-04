@@ -1,6 +1,13 @@
 {
-  "sort_categories": [],
-  "alphabetical_order": false,
+  "sort_categories": [
+    "cama",
+    "banho",
+    "mesa-e-copa",
+    "infantil",
+    "tapetes",
+    "ponta-de-estoque"
+  ],
+  "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
 }
