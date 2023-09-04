@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#562605"
   },
   "contacts_stripe": {
     "pages": [
@@ -14,7 +15,9 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/cama?CAMA"
+    ],
     "random": 6,
     "full_width": true
   },
