@@ -1346,18 +1346,6 @@
     </url>
   
     <url>
-      <loc>https://casaestillo.netlify.app/piso-frape-buddemeyer-azul</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://casaestillo.netlify.app/piso-frape-buddemeyer-verde</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://casaestillo.netlify.app/colcha-kit-matelasse-casal-180-fios-verde-artex</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1605,6 +1593,12 @@
   
     <url>
       <loc>https://casaestillo.netlify.app/colcha-dupla-face-boutipatrulha-canina-azul--lepper</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://casaestillo.netlify.app/piso-basic-total-mix---artex</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
