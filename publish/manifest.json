@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f3b97715fa0a7b509d8b606597060be9.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.7641701fcda59282363311f7789ed96e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.6a8130e3f8569396218c9238e11b9a13.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.57ae5cd20794b603848d6b204ba8d6ce.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.92210d7978da6d2f6844538ada33dadc.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "casaestillo",
+  "short_name": "Casaestillo",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Para vestir sua casa com estillo você não precisa sair de casa, a CasaEstillo vai até você oferecendo charme e requinte para sua casa. Acreditamos que os momentos mais felizes são aqueles minutos de intimidade vividos com a família dentro de sua casa, dentro de seu lar. . É, portanto, este o propósito da CasaEstillo, contribuir para que os momentos mais importantes da vida de seus clientes, sejam especiais, possuam requinte, charme, prazer, aconchego e através da nossa loja virtual você pode vestir sua casa com estilo adquirindo produtos com qualidade e requinte que só a CasaEstillo possui.",
+  "background_color": "#ffffff",
+  "theme_color": "#ad770c"
+}
